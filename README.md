@@ -9,7 +9,12 @@ The one-shot talking-head generation learns to synthesize a talking-head video w
 
 
 <h2 align="center">Video</h2>
-<https://www.youtube.com/watch?v=B_-3F51QmKE>
+<div align="center">
+  <a href="[https://youtu.be/AolpvKpmjEw](https://www.youtube.com/watch?v=B_-3F51QmKE)" target="_blank">
+<!--     <img src="media/TEMPEH_video_screenshot.png" alt="TEMPEH" width="1120" style="height: auto;" /> -->
+  </a>
+</div>
+
 
 
 <h2 align="center">Citation (Coming Soon)</h2>
