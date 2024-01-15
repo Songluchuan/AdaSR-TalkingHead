@@ -10,6 +10,6 @@ The one-shot talking-head generation learns to synthesize a talking-head video w
 
 
 ## Video
-
+<https://www.youtube.com/watch?v=B_-3F51QmKE>
 
 ## Citation (Coming Soon)
