@@ -6,8 +6,7 @@ The one-shot talking-head generation learns to synthesize a talking-head video w
 
 
 <h2 align="center">Code (Coming Soon)</h2>
-1. Download the pretrained model
-
+1. Download the pretrained model<br>
 2. Eval with one reference image and driving videos
 
 
