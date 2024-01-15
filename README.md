@@ -10,7 +10,7 @@ The one-shot talking-head generation learns to synthesize a talking-head video w
 
 <h2 align="center">Video</h2>
 <div align="center">
-  <a href="[[https://youtu.be/AolpvKpmjEw](https://www.youtube.com/watch?v=B_-3F51QmKE)](https://www.youtube.com/watch?v=B_-3F51QmKE)" target="_blank">
+  <a href="https://www.youtube.com/watch?v=B_-3F51QmKE" target="_blank">
     <img src="Teaser_video.png" alt="Teaser" width="1120" style="height: auto;" />
   </a>
 </div>
