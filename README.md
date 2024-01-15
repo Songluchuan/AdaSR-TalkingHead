@@ -9,7 +9,7 @@ The one-shot talking-head generation learns to synthesize a talking-head video w
 ## Code (Coming Soon)
 
 
-## Video
+<h2 align="center">Video</h2>
 <https://www.youtube.com/watch?v=B_-3F51QmKE>
 
 ## Citation (Coming Soon)
