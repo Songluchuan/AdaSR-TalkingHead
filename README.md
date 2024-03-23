@@ -7,7 +7,7 @@ The one-shot talking-head generation learns to synthesize a talking-head video w
 ## Updates
 
 - [03/2024] Inference code and pretrained model are released.
-- [COMING] Super-resolution model (based on StyleGANEX and ESRGAN)
+- [COMING] Super-resolution model (based on StyleGANEX and ESRGAN).
 - [COMING] Train code and processed datasets.
 
 
