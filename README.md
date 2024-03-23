@@ -34,13 +34,13 @@ We have tested on:
 2. The demo video and reference image are under ```DEMO/```
 
    
-3. The inference code is in the run_demo.sh, please run it with 
+3. The inference code is in the ```run_demo.sh```, please run it with 
 
 ```
 bash run_demo.sh
 ```
 
-4. You can set the demo image and driven video in the run_demo.sh
+4. You can set different demo image and driven video in the ```run_demo.sh```
 ```
 --source_image DEMO/demo_img_3.jpg
 ```
@@ -59,4 +59,12 @@ bash run_demo.sh
 
 
 
-<h2 align="center">Citation (Coming Soon)</h2>
+<h2 align="center">Citation</h2>
+```
+@inproceedings{song2024adaptive,
+  title={Adaptive Super Resolution for One-Shot Talking Head Generation},
+  author={Song, Luchuan and Liu, Pinxin and Yin, Guojun and Xu, Chenliang},
+  year={2024},
+  organization={IEEE International Conference on Acoustics, Speech, and Signal Processing}
+}
+```
