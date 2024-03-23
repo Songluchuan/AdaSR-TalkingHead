@@ -8,7 +8,7 @@ The one-shot talking-head generation learns to synthesize a talking-head video w
 <h2 align="center">Inference Code</h2>
 
 
-1. Download the pretrained model on google drive: (it is trained on the HDTF dataset), and put it under checkpoints/<br>
+1. Download the pretrained model on google drive: https://drive.google.com/file/d/1g58uuAyZFdny9_twvbv0AHxB9-03koko/view?usp=sharing (it is trained on the HDTF dataset), and put it under checkpoints/<br>
 
 
 2. The demo video and reference image are under DEMO/
