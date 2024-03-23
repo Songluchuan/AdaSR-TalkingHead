@@ -5,7 +5,7 @@ The repository for ICASSP2024 Adaptive Super Resolution For One-Shot Talking-Hea
 The one-shot talking-head generation learns to synthesize a talking-head video with one source portrait image under the driving of same or different identity video. Usually these methods require plane-based pixel transformations via Jacobin matrices or facial image warps for novel poses generation. The constraints of using a single image source and pixel displacements often compromise the clarity of the synthesized images. Some methods try to improve the quality of synthesized videos by introducing additional super-resolution modules, but this will undoubtedly increase computational consumption and destroy the original data distribution. In this work, we propose an adaptive high-quality talking-head video generation method, which synthesizes high-resolution video without additional pre-trained modules. Specifically, inspired by existing super-resolution methods, we down-sample the one-shot source image, and then adaptively reconstruct high-frequency details via an encoder-decoder module, resulting in enhanced video clarity. Our method consistently improves the quality of generated videos through a straightforward yet effective strategy, substantiated by quantitative and qualitative evaluations. The code and demo video are available on: https://github.com/Songluchuan/AdaSR-TalkingHead/
 
 
-<h2 align="center">Code (Coming Soon)</h2>
+<h2 align="center">Inference Code</h2>
 1. Download the pretrained model on google drive: (it is trained on the HDTF dataset), and put it under checkpoints/<br>
 2. The demo video and reference image are under DEMO/
 3. The inference code is in the run_demo.sh, please run it with bash run_demo.sh.
