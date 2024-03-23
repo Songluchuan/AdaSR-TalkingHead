@@ -59,7 +59,7 @@ bash run_demo.sh
 
 
 
-<h2 align="center">Citation</h2>
+## Citation
 
 ```bibtex
 @inproceedings{song2024adaptive,
@@ -69,3 +69,8 @@ bash run_demo.sh
   organization={IEEE International Conference on Acoustics, Speech, and Signal Processing}
 }
 ```
+
+## Acknowledgments
+
+The code is mainly developed based on [styleGANEX](https://github.com/williamyang1991/StyleGANEX), [ESRGAN](https://github.com/xinntao/ESRGAN) and [unofficial face2vid](https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis).
+
