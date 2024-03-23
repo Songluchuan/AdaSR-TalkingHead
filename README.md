@@ -31,7 +31,7 @@ We have tested on:
 1. Download the pretrained model on google drive: https://drive.google.com/file/d/1g58uuAyZFdny9_twvbv0AHxB9-03koko/view?usp=sharing (it is trained on the HDTF dataset), and put it under checkpoints/<br>
 
 
-2. The demo video and reference image are under DEMO/
+2. The demo video and reference image are under ```DEMO/```
 
    
 3. The inference code is in the run_demo.sh, please run it with 
