@@ -7,9 +7,23 @@ The one-shot talking-head generation learns to synthesize a talking-head video w
 ## Updates
 
 - [03/2024] Inference code and pretrained model are released.
-- [ COMING] Super-resolution model (based on StyleGANEX and ESRGAN)
-- [ COMING] Train code and processed datasets.
+- [COMING] Super-resolution model (based on StyleGANEX and ESRGAN)
+- [COMING] Train code and processed datasets.
 
+
+## Installation
+
+**Clone this repo:**
+```bash
+git clone https://github.com/williamyang1991/StyleGANEX.git
+cd StyleGANEX
+```
+**Dependencies:**
+
+We have tested on:
+- CUDA 10.1
+- PyTorch 1.7.1
+- Pillow 8.3.1; Matplotlib 3.4.2; opencv-python 4.5.3; tqdm 4.61.2; Ninja 1.10.2; dlib 19.24.0; gradio 3.4
 
 ## Inference Code 
 
