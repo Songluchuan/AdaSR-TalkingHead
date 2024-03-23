@@ -14,7 +14,7 @@ The one-shot talking-head generation learns to synthesize a talking-head video w
 bash run_demo.sh
 ```
 
-4. You can set the demo image and driven video in the
+4. You can set the demo image and driven video in the run_demo.sh
 ```
 --source_image DEMO/demo_img_3.jpg
 ```
