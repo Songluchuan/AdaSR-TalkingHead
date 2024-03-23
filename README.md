@@ -4,8 +4,14 @@ The repository for ICASSP2024 Adaptive Super Resolution For One-Shot Talking-Hea
 <h2 align="center">Abstract</h2>
 The one-shot talking-head generation learns to synthesize a talking-head video with one source portrait image under the driving of same or different identity video. Usually these methods require plane-based pixel transformations via Jacobin matrices or facial image warps for novel poses generation. The constraints of using a single image source and pixel displacements often compromise the clarity of the synthesized images. Some methods try to improve the quality of synthesized videos by introducing additional super-resolution modules, but this will undoubtedly increase computational consumption and destroy the original data distribution. In this work, we propose an adaptive high-quality talking-head video generation method, which synthesizes high-resolution video without additional pre-trained modules. Specifically, inspired by existing super-resolution methods, we down-sample the one-shot source image, and then adaptively reconstruct high-frequency details via an encoder-decoder module, resulting in enhanced video clarity. Our method consistently improves the quality of generated videos through a straightforward yet effective strategy, substantiated by quantitative and qualitative evaluations. The code and demo video are available on: https://github.com/Songluchuan/AdaSR-TalkingHead/
 
+## Updates
 
-<h2 align="center">Inference Code</h2>
+- [03/2024] Inference code and pretrained model are released.
+- [ COMING] Super-resolution model (based on StyleGANEX and ESRGAN)
+- [ COMING] Train code and processed datasets.
+
+
+## Inference Code 
 
 
 1. Download the pretrained model on google drive: https://drive.google.com/file/d/1g58uuAyZFdny9_twvbv0AHxB9-03koko/view?usp=sharing (it is trained on the HDTF dataset), and put it under checkpoints/<br>
@@ -30,7 +36,7 @@ bash run_demo.sh
 ```
 
 
-<h2 align="center">Video</h2>
+## Video
 <div align="center">
   <a href="https://www.youtube.com/watch?v=B_-3F51QmKE" target="_blank">
     <img src="media/Teaser_video.png" alt="AdaSR Talking-Head" width="1120" style="height: auto;" />
