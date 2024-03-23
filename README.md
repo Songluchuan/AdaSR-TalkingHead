@@ -15,15 +15,15 @@ The one-shot talking-head generation learns to synthesize a talking-head video w
 
 **Clone this repo:**
 ```bash
-git clone https://github.com/williamyang1991/StyleGANEX.git
-cd StyleGANEX
+git clone git@github.com:Songluchuan/AdaSR-TalkingHead.git
+cd AdaSR-TalkingHead
 ```
 **Dependencies:**
 
 We have tested on:
-- CUDA 10.1
-- PyTorch 1.7.1
-- Pillow 8.3.1; Matplotlib 3.4.2; opencv-python 4.5.3; tqdm 4.61.2; Ninja 1.10.2; dlib 19.24.0; gradio 3.4
+- CUDA 11.3-11.6
+- PyTorch 1.10.1
+- Matplotlib 3.4.3; Matplotlib 3.4.2; opencv-python 4.7.0; scikit-learn 1.0; tqdm 4.62.3
 
 ## Inference Code 
 
