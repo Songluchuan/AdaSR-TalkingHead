@@ -72,5 +72,5 @@ bash run_demo.sh
 
 ## Acknowledgments
 
-The code is mainly developed based on [styleGANEX](https://github.com/williamyang1991/StyleGANEX), [ESRGAN](https://github.com/xinntao/ESRGAN) and [unofficial face2vid](https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis).
+The code is mainly developed based on [styleGANEX](https://github.com/williamyang1991/StyleGANEX), [ESRGAN](https://github.com/xinntao/ESRGAN) and [unofficial face2vid](https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis). Thanks to the authors contribution.
 
