@@ -8,7 +8,12 @@ The one-shot talking-head generation learns to synthesize a talking-head video w
 <h2 align="center">Inference Code</h2>
 1. Download the pretrained model on google drive: (it is trained on the HDTF dataset), and put it under checkpoints/<br>
 2. The demo video and reference image are under DEMO/
-3. The inference code is in the run_demo.sh, please run it with bash run_demo.sh.
+3. The inference code is in the run_demo.sh, please run it with 
+
+```
+bash run_demo.sh
+```
+
 4. You can set the demo image and driven video in the --source_image DEMO/demo_img_3.jpg and --driving_video DEMO/demo_video_1.mp4
 
 
