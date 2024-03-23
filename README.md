@@ -60,7 +60,8 @@ bash run_demo.sh
 
 
 <h2 align="center">Citation</h2>
-```
+
+```bibtex
 @inproceedings{song2024adaptive,
   title={Adaptive Super Resolution for One-Shot Talking Head Generation},
   author={Song, Luchuan and Liu, Pinxin and Yin, Guojun and Xu, Chenliang},
